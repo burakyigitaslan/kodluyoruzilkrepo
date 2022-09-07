@@ -5,14 +5,12 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ![Project Image](https://imgyukle.com/f/2022/09/07/nXPnjf.png)
 
 ## **Installation**
----
 
 Öncelikle projeyi clonelayın.
 
 `git clone https://github.com/burakyigitaslan/kodluyoruzilkrepo.git`
 
 ## **Usage**
----
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -23,11 +21,9 @@ code .
 ```
 
 ## **Contributing**
----
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## **License**
----
 
 [MIT](https://choosealicense.com/licenses/mit/)
